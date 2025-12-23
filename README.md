@@ -4,7 +4,8 @@ Speak Queue is a Chrome extension designed to bring structure to discussions in 
 
 It helps avoid interruptions and confusion when multiple participants attempt to speak simultaneously.
 
-This project was **conceptualized and developed independently around July–August 2025**, before Google Meet introduced any native speaking queue or hand-raise ordering features.  
+This project was **conceptualized and developed independently around July–August 2025**, before Google Meet introduced any native speaking queue or hand-raise ordering features.
+
 It was built as an exploration of user experience challenges in virtual meetings and real-time collaboration systems.
 
 ---
