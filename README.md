@@ -1,4 +1,4 @@
-# Speak Queue – Google Meet Chrome Extension
+# spea-Q – Google Meet Chrome Extension
 
 Speak Queue is a Chrome extension designed to bring structure to discussions in Google Meet by introducing a real-time speaking queue.  
 It helps avoid interruptions and confusion when multiple participants attempt to speak simultaneously.
